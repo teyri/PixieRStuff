@@ -1,99 +1,98 @@
 [
-	{
-    "name": "Wallpaper1",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall1.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall1_thumb.png"
-	},
-	{
-    "name": "Wallpaper2",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall2.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall2_thumb.png"
-	},
-	{
-    "name": "Wallpaper3",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall3.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall3_thumb.png"
-	},
-	{
-    "name": "Wallpaper4",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall4.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall4_thumb.png"
-	},
-	{
-    "name": "Wallpaper5",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall5.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall5_thumb.png"
-	},
-	{
-    "name": "Wallpaper6",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall6.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall6_thumb.png"
-	},
-	{
-    "name": "Wallpaper7",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall7.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall7_thumb.png"
-	},
-	{
-    "name": "Wallpaper8",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall8.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall8_thumb.png"
-	},
-	{
-    "name": "Wallpaper9",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall9.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall9_thumb.png"
-	},
-
-	{
-    "name": "Wallpaper10",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall10.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall10_thumb.png"
-	},
-	{
-    "name": "Wallpaper11",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall11.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall11_thumb.png"
-	},
-	{
-    "name": "Wallpaper12",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall12.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall12_thumb.png"
-	},
-	{
-    "name": "Wallpaper13",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall13.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall13_thumb.png"
-	},
-	{
-    "name": "Wallpaper14",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall14.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall14_thumb.png"
-	},
-	{
-    "name": "Wallpaper15",
-    "author": "Freepik",
-    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall15.png",
-    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall15_thumb.png"
-	}
-	{
+  {
     "name": "Wallpaper16",
     "author": "Freepik",
     "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall16.png",
     "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall16_thumb.png"
-	}
+  },
+  {
+    "name": "Wallpaper15",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall15.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall15_thumb.png"
+  },
+  {
+    "name": "Wallpaper14",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall14.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall14_thumb.png"
+  },
+  {
+    "name": "Wallpaper13",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall13.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall13_thumb.png"
+  },
+  {
+    "name": "Wallpaper12",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall12.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall12_thumb.png"
+  },
+  {
+    "name": "Wallpaper11",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall11.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall11_thumb.png"
+  },
+ {
+    "name": "Wallpaper10",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall10.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall10_thumb.png"
+  },
+  {
+    "name": "Wallpaper9",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall9.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall9_thumb.png"
+  },
+  {
+    "name": "Wallpaper8",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall8.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall8_thumb.png"
+  },
+  {
+    "name": "Wallpaper7",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall7.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall7_thumb.png"
+  },
+  {
+    "name": "Wallpaper6",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall6.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall6_thumb.png"
+  },
+  {
+    "name": "Wallpaper5",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall5.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall5_thumb.png"
+  },
+  {
+    "name": "Wallpaper1",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall1.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall1_thumb.png"
+  },
+  {
+    "name": "Wallpaper2",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall2.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall2_thumb.png"
+  },
+  {
+    "name": "Wallpaper3",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall3.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall3_thumb.png"
+  },
+  {
+     "name": "Wallpaper4",
+    "author": "Freepik",
+    "url": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall4.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/PixieRStuff/master/Wall4_thumb.png"
+  }
 ]
